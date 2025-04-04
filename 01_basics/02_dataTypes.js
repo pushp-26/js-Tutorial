@@ -15,7 +15,7 @@ let isLoggedIn = false
 let state = null // empty value - it is a type
 
 // number => 2 to power 53
-// bigint 
+// bigint  // generally in stock market for very big numbers
 // string => ""
 // boolean => true/false
 // null => standalone value
